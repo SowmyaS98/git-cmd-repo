@@ -1,2 +1,3 @@
 this is file nb2 created under branch nb2
  changes made in master
+made change in nb2
